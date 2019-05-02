@@ -1,3 +1,9 @@
+# This project is now archived and replaced by snowdrop/kreate (https://github.com/snowdrop/kreate)
+
+
+---
+
+
 # Snowdrop `scaffold` command
 
 - `git clone` this project *outside* of your `$GOPATH` (since it uses `go modules`)
